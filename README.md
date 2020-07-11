@@ -1,22 +1,22 @@
 Install
 Script Python2 No 1
 
-1 $ pkg update && pkg upgrade
-2 $ pkg install git
-3 $ pkg install python2
-4 $ git clone https://github.com/mirzaaltaf/fb-hack
-5 $ cd fb-hack
-6 $ python2 fb.py
-New____________Update_____________New
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/mirzaaltaf/fb-hack
+$ cd fb-hack
+$ python2 fb.py
+New_______Update_______New
 
 New Script Python2 No 2
 
-1 $ pkg update && pkg upgrade
-2 $ pkg install git
-3 $ pkg install python2
-4 $ git clone https://github.com/mirzaaltaf/fb-hack
-5 $ cd fb-hack
-6 $ python2 fb2.py
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/mirzaaltaf/fb-hack
+$ cd fb-hack
+$ python2 fb2.py
 
 # thanks to
 #### All members [ TECHNICAL XJI ]
