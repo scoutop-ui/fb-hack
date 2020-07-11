@@ -14,10 +14,10 @@ import cookielib
 
 GHT = '''
         +=======================================+
-        |..........Facebook Cracker v 2.........|
+        |....... Technical.Xji.Fb.Hacker........|
         +---------------------------------------+
         |#Author: Mauritania Attacker           |
-        |#Contact: www.fb.com/mauritanie.forever|
+        |#Contact: Talegram. @technicalxji1.    |
         |#Date: 02/04/2013                      |
         |#This tool is made for pentesting.     |
         |#Changing the Description of this tool |
@@ -26,7 +26,7 @@ GHT = '''
         |#I take no responsibilities for the    |
         |  use of this program !                |
         +=======================================+
-        |..........Facebook Cracker v 2.........|
+        |.........Technical.Xji.Fb.Hacker.......|
         +---------------------------------------+
 '''
 print "Note: - This tool can crack facebook account even if you don't have the email of your victim"
