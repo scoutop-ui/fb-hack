@@ -1,5 +1,5 @@
 # Install
-Script Python2 No 1
+# Script Python2 No 1 👇
 
 $ pkg update && pkg upgrade
 
