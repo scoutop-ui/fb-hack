@@ -19,8 +19,9 @@ $ python2 fb.py
 
 # thanks to
 #### All members [# TECHNICAL XJI ]
-#### Fachri Yuzzy
-#### Allah SWT
-MY YOUTUBE CHANNEL 
-# PLEASE SUBSCRIBE MY YOUTUBE CHANNEL Link 👇
+#### Help us all
+#### Join my Talegram Group Hacking Tips
+https://t.me/technicalxjihacking
+#### MY YOUTUBE CHANNEL NAME : TECHNICAL XJI
+#### PLEASE SUBSCRIBE MY YOUTUBE CHANNEL Link 👇
 https://www.youtube.com/channel/UC5UqZVGdBv8HUhygCuHO6jw
