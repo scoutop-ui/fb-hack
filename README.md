@@ -13,21 +13,9 @@ $ cd fb-hack
 
 $ python2 fb.py
 
-New_______Update_______New
+#_New_______Update_______New__#
 
-New Script Python2 No 2
-
-$ pkg update && pkg upgrade 
-
-$ pkg install git 
-
-$ pkg install python2
-
-$ git clone https://github.com/mirzaaltaf/fb-hack
-
-$ cd fb-hack
-
-$ python2 facebook.py
+#________Coming Soon_______#
 
 # thanks to
 #### All members [ TECHNICAL XJI ]
