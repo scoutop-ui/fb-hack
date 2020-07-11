@@ -27,7 +27,7 @@ $ git clone https://github.com/mirzaaltaf/fb-hack
 
 $ cd fb-hack
 
-$ python fbs.py
+$ python fb2.py
 
 # thanks to
 #### All members [ TECHNICAL XJI ]
