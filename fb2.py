@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!usr/bin/python3
 #Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
 #This program is for educational purposes only.
 #Don't attack people facebook accounts it's illegal ! 
@@ -16,7 +16,7 @@ GHT = '''
         +=======================================+
         |....... Technical.Xji.Fb.Hacker........|
         +---------------------------------------+
-        |#Author: Mauritania Attacker           |
+        |#Author: Technical Xji Attacker        |
         |#Contact: Talegram. @technicalxji1.    |
         |#Date: 10/07/2020                      |
         |#This tool is made for pentesting.     |
