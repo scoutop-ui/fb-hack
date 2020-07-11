@@ -18,7 +18,7 @@ GHT = '''
         +---------------------------------------+
         |#Author: TECHNICAL XJI                 |
         |#Talegram:https://t.me/technicalxji1   |
-        |#JDate: 02/04/2013                      |
+        |#JDate: 11/07/2020                      |
         |#This tool is made for pentesting.     |
         |#Changing the Description of this tool |
         |Won't made you the coder ^_^ !!!       |
