@@ -1,4 +1,4 @@
-Install
+# Install
 Script Python2 No 1
 
 $ pkg update && pkg upgrade
@@ -22,5 +22,5 @@ $ python2 fb.py
 #### Fachri Yuzzy
 #### Allah SWT
 MY YOUTUBE CHANNEL 
-# PLEASE SUBSCRIBE MY YOUTUBE CHANNEL
+# PLEASE SUBSCRIBE MY YOUTUBE CHANNEL Link 👇
 https://www.youtube.com/channel/UC5UqZVGdBv8HUhygCuHO6jw
