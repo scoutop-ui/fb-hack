@@ -13,14 +13,14 @@ $ cd fb-hack
 
 $ python2 fb.py
 
-# _New_______Update_______New__
+# New Update New
 
-# ____Coming Soon______
+# Coming Soon
 
 # thanks to
-#### All members [ TECHNICAL XJI ]
+#### All members [# TECHNICAL XJI ]
 #### Fachri Yuzzy
 #### Allah SWT
 MY YOUTUBE CHANNEL 
-PLEASE SUBSCRIBE MY YOUTUBE CHANNEL
+# PLEASE SUBSCRIBE MY YOUTUBE CHANNEL
 https://www.youtube.com/channel/UC5UqZVGdBv8HUhygCuHO6jw
