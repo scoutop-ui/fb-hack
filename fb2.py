@@ -118,4 +118,3 @@ def check():
 
 if __name__ == '__main__':
     check()
-Thanks for Using This Script Python
