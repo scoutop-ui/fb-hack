@@ -18,7 +18,7 @@ GHT = '''
         +---------------------------------------+
         |#Author: Mauritania Attacker           |
         |#Contact: Talegram. @technicalxji1.    |
-        |#Date: 02/04/2013                      |
+        |#Date: 10/07/2020                      |
         |#This tool is made for pentesting.     |
         |#Changing the Description of this tool |
         |Won't made you the coder ^_^ !!!       |
