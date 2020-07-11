@@ -1,4 +1,4 @@
-#!usr/bin/python2
+#!usr/bin/python
 #Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
 #This program is for educational purposes only.
 #Don't attack people facebook accounts it's illegal ! 
@@ -118,4 +118,4 @@ def check():
 
 if __name__ == '__main__':
     check()
-Thanks for Using This Script Python2
+Thanks for Using This Script Python
