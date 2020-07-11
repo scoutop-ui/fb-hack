@@ -21,13 +21,13 @@ $ pkg update && pkg upgrade
 
 $ pkg install git 
 
-$ pkg install python2
+$ pkg install python
 
 $ git clone https://github.com/mirzaaltaf/fb-hack
 
 $ cd fb-hack
 
-$ python2 fb2.py
+$ python fb2.py
 
 # thanks to
 #### All members [ TECHNICAL XJI ]
