@@ -13,9 +13,9 @@ $ cd fb-hack
 
 $ python2 fb.py
 
-#_New_______Update_______New__#
+# _New_______Update_______New__
 
-#________Coming Soon_______#
+# ____Coming Soon______
 
 # thanks to
 #### All members [ TECHNICAL XJI ]
