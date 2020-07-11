@@ -13,7 +13,7 @@ $ cd fb-hack
 
 $ python2 fb.py
 
-# New Update New
+# New Update
 
 # Coming Soon
 
