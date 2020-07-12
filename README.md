@@ -1,11 +1,15 @@
 # Install
-# Script Python2 No 1 👇
+## Fb Password Recovery & Hacking Script 👇
 
 $ pkg update && pkg upgrade
 
 $ pkg install git
 
 $ pkg install python2
+
+$ pip2 install mechanize
+
+$ pip2 install requests
 
 $ git clone https://github.com/mirzaaltaf/fb-hack
 
