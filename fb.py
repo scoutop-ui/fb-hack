@@ -105,7 +105,7 @@ def start():
 
         except IOError:
             print '\033[37;1m[\033[32;1mx\033[37;1m] \033[37;1mAlamat wordlist tidak ada'
-            print '\033[37;1m[\033[32;1mx\033[37;1m] \033[37;1mSaya sarankan Untuk Membuatnya sendiri'
+            print '\033[37;1m[\033[32;1mx\033[37;1m] \033[37;1mPlease Check Your Internet Connection and Try Again'
             sys.exit()
 
 ceknet()
